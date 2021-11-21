@@ -1,5 +1,5 @@
 <h3 align="center">
-  Zoom clone
+  Video Conferencing App
 </h3>
 
 <p align="center">Clone of Zoom for study purposes.</p>
